@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kolyadual
-- 👋 My Real name in Nicolay Alehin
 - 👀 I’m interested in programming and fishing
 - 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on ...
